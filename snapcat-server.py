@@ -1,9 +1,3 @@
-#!/usr/bin/env python 
-
-""" 
-A simple echo server 
-""" 
-
 import socket 
 
 host = '' 
